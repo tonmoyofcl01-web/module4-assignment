@@ -2,9 +2,9 @@
 
 @theme {
     --font-display: 'Playfair Display', sans-serif;
-    --color-background: #F7F7F2;
-    --color-surface: #E8EAE2;
-    --color-sage: #6B806C;
-    --color-text: #202820;
-    --color-muted: ##8A9287;
+    --color-background: #F8F6F0;
+    --color-surface: #E9E5DA;
+    --color-accent: #739477;
+    --color-text: #26352D;
+    --color-muted: #69776B;
 }
