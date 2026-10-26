@@ -1,7 +1,7 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');@import "tailwindcss";
 
 @theme {
-    --font-display: 'Playfair Display', sans-serif;
+    --font-display: 'Epilogue', sans-serif;
     --color-background: #F8F6F0;
     --color-surface: #E9E5DA;
     --color-accent: #739477;
